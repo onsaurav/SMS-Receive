@@ -1,0 +1,100 @@
+D:\Kartik\SMS\SMS\bin\Debug\SMS.exe
+D:\Kartik\SMS\SMS\bin\Debug\SMS.pdb
+D:\Kartik\SMS\SMS\bin\Debug\GSMCommShared.dll
+D:\Kartik\SMS\SMS\bin\Debug\RS232.dll
+D:\Kartik\SMS\SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Kartik\SMS\SMS\obj\Debug\SMS.Delete.resources
+D:\Kartik\SMS\SMS\obj\Debug\SMS.frmConnection.resources
+D:\Kartik\SMS\SMS\obj\Debug\SMS.Receive.resources
+D:\Kartik\SMS\SMS\obj\Debug\SMS.Send.resources
+D:\Kartik\SMS\SMS\obj\Debug\SMS.Form1.resources
+D:\Kartik\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+D:\Kartik\SMS\SMS\obj\Debug\SMS.exe
+D:\Kartik\SMS\SMS\obj\Debug\SMS.pdb
+D:\Kartik\SMS Receive All\SMS\obj\Debug\SMS.exe
+D:\Kartik\SMS Receive All\SMS\obj\Debug\SMS.pdb
+D:\Kartik\SMS Receive All\SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Kartik\SMS Receive All\SMS\obj\Debug\SMS.frmConnection.resources
+D:\Kartik\SMS Receive All\SMS\obj\Debug\SMS.Form1.resources
+D:\Kartik\SMS Receive All\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+D:\Kartik\SMS Receive All\SMS\bin\Debug\SMS.exe
+D:\Kartik\SMS Receive All\SMS\bin\Debug\SMS.pdb
+D:\Kartik\SMS Receive All\SMS\bin\Debug\GSMCommShared.dll
+D:\Kartik\SMS Receive All\SMS\bin\Debug\RS232.dll
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.exe
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.pdb
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.frmConnection.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.Form1.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\bin\Debug\SMS.exe
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\bin\Debug\SMS.pdb
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\bin\Debug\GSMCommShared.dll
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\bin\Debug\RS232.dll
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.frmLogin.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.frmReportViewer.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-20-2010\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.exe
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.pdb
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmSMSReport.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmConnection.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmLogin.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmReportViewer.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmChangePassword.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmSecurityUser.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.Form1.resources
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\SMS.exe
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\SMS.pdb
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\GSMCommShared.dll
+E:\Projects\Mobile Messaging\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\RS232.dll
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.exe
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.pdb
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\SMS.exe
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\SMS.pdb
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\GSMCommShared.dll
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\bin\Debug\RS232.dll
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmSMSReport.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmConnection.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmLogin.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmReportViewer.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmChangePassword.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.frmSecurityUser.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.Form1.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.exe
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.pdb
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\bin\Debug\SMS.exe
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\bin\Debug\SMS.pdb
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\bin\Debug\GSMCommShared.dll
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\bin\Debug\RS232.dll
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmSMSReport.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmConnection.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmLogin.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmReportViewer.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmChangePassword.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmSecurityUser.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.Form1.resources
+D:\Kartik\SMS All\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.exe
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.pdb
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\bin\Debug\SMS.exe
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\bin\Debug\SMS.pdb
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\bin\Debug\GSMCommShared.dll
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\bin\Debug\RS232.dll
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmSMSReport.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmConnection.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmLogin.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmReportViewer.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.Properties.Resources.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmChangePassword.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.frmSecurityUser.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.Form1.resources
+E:\Projects\Mobile Messaging\SMS Receive\SMS Receive Feb-22-2010-005\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache

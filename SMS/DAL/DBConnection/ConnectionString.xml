@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>Data Source=DBZ50;Initial Catalog=Babylon2;Integrated Security=True</connectionStrings>
+</configuration>
